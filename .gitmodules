@@ -1,3 +1,6 @@
 [submodule "portfolio-atv-desenvolvimento-web"]
 	path = portfolio-atv-desenvolvimento-web
 	url = git@github.com:dudaamon/portfolio-atv-desenvolvimento-web.git
+[submodule "LPA-trabalho"]
+	path = LPA-trabalho
+	url = git@github.com:dudaamon/LPA-trabalho.git
